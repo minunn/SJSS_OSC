@@ -4,7 +4,7 @@
     "webhookURLs": {
       "smalllogs": "your webhook URL here",
       "otherlogs": "your webhook URL here",
-      "timedoutlogs": "your webhook URL here",
+      "timedoutlogs": "your webhook URL here"
     },
     "vrchatOSCHost": "localhost",
     "vrchatOSCPort": 9000,

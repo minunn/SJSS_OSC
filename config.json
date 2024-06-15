@@ -2,12 +2,15 @@
 {
     "logFile": "log.txt",
     "webhookURLs": {
-      "smalllogs": ""
+      "smalllogs": "your webhook URL here",
+      "otherlogs": "your webhook URL here",
+      "timedoutlogs": "your webhook URL here",
     },
     "vrchatOSCHost": "localhost",
     "vrchatOSCPort": 9000,
     "serverPort": 3000,
-    "READ THIS" : "sendToDiscord is by default off, but you can turn it on if you want to send the logs to a discord channel. Please enter your webhook URL in the webhookURLs section.",
     "sendToDiscord": true, 
-    "sendToVRChat": true
+    "sendToVRChat": false,
+    "sentCrashToVRChat": false
+    
   }

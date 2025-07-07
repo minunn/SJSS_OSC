@@ -3,7 +3,7 @@
     "http": "^0.0.1-security",
     "node-fetch": "^3.3.1",
     "vrchat": "^1.20.0",
-    "node-osc": "^9.1.5"
+    "node-osc": "^9.1.7"
   },
   "devDependencies": {}
 }
